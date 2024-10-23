@@ -1,0 +1,15 @@
+ pip ที่ต้องติดตั้ง
+1. mysql-connector-python ใช้ในการเชื่อมต่อกับ Data base
+2. fuzzywuzzy สำหรับเปรียบเทียบข้อความที่ป้อนเข้ามา
+3. gtts สำหรับแปลงข้อความเป็นเสียง
+4. pygame สำหรับสร้างและเล่นไฟล์เสียง
+5. speechrecognition สำหรับรับข้อความผ่านไมโครโฟน
+6. pyAudio สำหรับใช้ไมโครโฟนได้อย่างประสิทธิภาพมากขึ้น
+                |
+                |
+1. pip install mysql-connector-python
+2. pip install fuzzywuzzy
+3. pip install gtts
+4. pip install pygame
+5. pip install SpeechRecognition
+6. pip install pyaudio
